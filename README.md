@@ -1,5 +1,5 @@
-this Lesson Template is intended to structure any notes, guides, 
-challenges, or examples sharee about storytelling
+This Lesson Template is intended to structure any notes, guides, 
+challenges, or examples shared about storytelling
 
 Once you’ve created your lesson notes using the template, 
 and tested out your lesson with your Study Group, we 
